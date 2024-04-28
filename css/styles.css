@@ -119,3 +119,27 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo-second {
+  color: #f4f4fd;
+}
+
+.main-logos {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
