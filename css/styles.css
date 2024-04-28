@@ -32,10 +32,7 @@ body {
   color: #2e2f42;
 }
 
-.navigation-studio:hover {
-  color: #404bbf;
-}
-
+.navigation-studio:hover,
 .navigation-studio:active {
   color: #404bbf;
 }
