@@ -33,39 +33,7 @@ body {
 }
 
 .navigation-studio:hover,
-.navigation-studio:active {
-  color: #404bbf;
-}
-
-.navigation-portfolio {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.navigation-portfolio:hover {
-  color: #404bbf;
-}
-
-.navigation-portfolio:active {
-  color: #404bbf;
-}
-
-.navigation-contacts {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.navigation-contacts:hover {
-  color: #404bbf;
-}
-
-.navigation-contacts:active {
+.navigation-studio:focus {
   color: #404bbf;
 }
 
@@ -85,20 +53,5 @@ body {
 }
 
 .email:focus {
-  color: #404bbf;
-}
-
-.telefon {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.telefon:hover {
-  color: #404bbf;
-}
-
-.telefon:focus {
   color: #404bbf;
 }
